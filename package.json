@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "2",
+    "ffi": "@saleae/ffi",
     "function-class": "^1.0.0",
     "ref": "^1.3.2",
     "ref-struct": "^1.0.2",
